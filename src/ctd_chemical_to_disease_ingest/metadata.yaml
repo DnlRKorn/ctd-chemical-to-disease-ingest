@@ -1,0 +1,14 @@
+# Metadata for the project
+# Uncomment and edit the fields you want to include in the metadata
+# See metadata properties at https://koza.monarchinitiative.org/Ingests/source_config/
+
+id:  'CURIE for the project'
+name: 'ctd_chemical_to_disease_chemical_to_disease'
+ingest_title: 'ctd_chemical_to_disease_ingest'
+ingest_url: 'https://github.com/DnlRKorn/ctd-chemical-to-disease-ingest'
+description: 'This is the project description.'
+# source: 'Possibly replaced by provided_by'
+provided_by: 'ctd_chemical_to_disease'
+# One of license and rights is possibly redundant
+license: 'Link to license'
+rights: 'Link to rights' 
